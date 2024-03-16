@@ -1,12 +1,13 @@
 # Software Dev
 
 ### Education
-CSE, IIT GN
+Discipline, University
 
 ### Experience
-SDE @ Smarsh
+Company - Designation
 - project 1
 - project 2
 
-Tech Intern @ Rakuten
-- Project 1
+Company - Designation
+- project 1
+- project 2
